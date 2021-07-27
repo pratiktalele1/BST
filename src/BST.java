@@ -11,8 +11,8 @@ public static void main(String[] args) {
           bst.insert(70);
       
       
-     // bst.showTree();
-     // bst.search(bst.root,14);
+      bst.showTree();
+      bst.search(bst.root,63);
 	}
 
 }
